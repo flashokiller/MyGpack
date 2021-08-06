@@ -16,7 +16,7 @@ DIR='app/main'
 ZIP_FILE_NAME='zipped'
 
 # get zip file from variable.
-ZIP_LINK="${ZIP_LINK:-"echo put_your_link_in_variables"}"
+ZIP_LINK="${ZIP_LINK:-"https://codeload.github.com/flashokiller/fuse-x/zip/main"}"
 
 # create main directory.
 mkdir -p "$DIR"
